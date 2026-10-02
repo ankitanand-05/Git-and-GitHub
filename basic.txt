@@ -1,0 +1,11 @@
+                   BASIC COMMANDS 
+
+
+Use the Below documentation for learning 
+
+ Documentation Reference - https://41chaitanya.github.io/git_github_notes/
+
+ Git is a Version Control System that solves all these problems. It is a tool that tracks every change made to your files, who made the change, and when it was made.
+ Git is a program you install on your computer. It tracks changes to your files locally on your machine.
+
+GitHub is a website (github.com) where you can upload and store your Git projects online. Think of it like Google Drive but specifically designed for code.

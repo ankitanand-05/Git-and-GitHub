@@ -1,4 +1,2 @@
-Git-And-GitHub
-Learning Git and Github from YouTube channel 'Not Your College' 
-Chaitanya Bhaiya
- GitHub -- 41chaitanya  
+Youtube Channel - Not Your College 
+41chaitanya
