@@ -1,0 +1,42 @@
+First read the documentation 
+ 
+  Some more information: 
+
+1. touch file_name  --> create an empty file 
+    touch file.txt  -->   create an empty file with name file.txt
+
+2. echo "hello' > hello.txt 
+   echo "hello' >> hello.txt
+
+   > vs >> used in echo 
+
+   > --> used for overwrite
+       i) create hello.txt if it doesnot exist
+       ii) if the file is already existing and have the content , old content is deleted/replaced .
+
+
+       >>  ---> Append
+
+       i) create hello.txt if it doesnot exist
+       ii) if the file already existing is will append hello at last 
+
+
+3.  main branch taab taak nhi bnta jab taak 1st commit na ho jye
+    git init      |
+    git add       |  ----->        abhi taak main branch nhi bana hai 
+
+    git commit ----> aab main branch bana
+
+
+4. cat file_name   --> read the content inside the file
+5. ls  ---->  shows files and folder preent inside your current directory 
+6. ls -a  --->  shows all file, including hidden files such as .git
+
+7. rm -rf *  --->   it is very powerful deletion command. It delete almost everything in 
+                    the current directory (files + folder) except hidden files
+                    rm -> remove/delete
+                    -r -> recursive 
+                    -f -> force- don't ask for confirmation 
+                    *  ->  matches all non-hidden files and folders int the current directory
+
+                    
